@@ -1,0 +1,6 @@
+{
+  "name": "Evaluación de Exposiciones BCM",
+  "description": "Aplicación para la evaluación entre pares de exposiciones en Biología Celular y Molecular con exportación local en formato CSV.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
